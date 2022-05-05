@@ -2,7 +2,7 @@
 <modification>
     <name>Bypass-Free-Checkout-Opencart</name>
     <version>1</version>
-    <author>Waziaq</author>
+    <author>W Z | Bravo Net Solution</author>
     <code>Bypass-Free-Checkout-Opencart-Waziaq</code>
 
     <file name="catalog/model/extension/total/total.php">
