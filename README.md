@@ -1,4 +1,4 @@
-# Bypass-Free-Checkout-Opencart
+# Bypass-Free-Checkout-Opencart-OCMOD
 
 Some payment gateway do not allow zero(0) amount transactions as generic. Supposed if the total amount is $0, Free Checkout option will activated to continue the checkout process and if the total amount is more than $0, the regular payment methods will be appear to choose.
 
